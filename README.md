@@ -1,7 +1,11 @@
 Name: Rachel Alisha Fernandes
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS589
+
 Domain: Data Analysis
+
 Duration: 12 Dec 2024 - 12 Jan 2025
 
 **Project: Employee Performance and Demographics Analysis**
